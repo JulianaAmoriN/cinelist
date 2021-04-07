@@ -1,78 +1,95 @@
-# Midterm Hackathon
+<h1 align="center">< HackThon Cinelist /> </h1>
+<h3 align="center"> Projeto desenvolvido no HackThon do bootcamp da Laboratoria </h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> 
+</p>
 
-## Índice
+<p align="center"> 
+<a href="https://github.com/JulianaAmoriN/Cinelist"><strong>Explorar Docs</a>
+    ·
+<a href="https://github.com/JulianaAmoriN/Cinelist/issues">Reportar Bug</a>
+ ·
+<a href="https://midterm-hackthon.web.app/">Deploy</a>
+</p>
 
-- [Prefácio](#prefácio)
-- [Resumo do projeto](#resumo-do-projeto)
-- [Considerações gerais](#considerações-gerais)
-- [Objetivos de aprendizagem](#objetivos-de-aprendizagem)
-- [Exemplo de projetos](#examplo-de-projetos)
-- [APIs](#apis)
-- [Entrega](#entrega)
-- [Dicas](#dicas)
+<details open="open">
+  <summary><h4>Sumário</h4></summary>
+  <ol>
+    <li>
+      <a href="#sobre-o-projeto">Sobre o projeto</a>
+      <ul>
+        <li><a href="#linguagens-e-ferramentas">Linguagens e Ferramentas</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#aplicativo">Aplicativo</a> 
+       <ul>
+        <li><a href="#link-deploy">Link Deploy</a></li>
+      </ul>
+    </li>
+    <li><a href="#contribua">Contribuidua</a></li>
+    <li><a href="#contato">Contato</a></li>
+    <li><a href="#agradecimento">Agradecimento</a></li>
+  </ol>
+</details>
 
----
+## Sobre o projeto
+<p align="center">
+<img src="https://github.com/JulianaAmoriN/Cinelist/blob/main/src/images/Cinelist.png?raw=true" width="50%" height="50%">
+</p>
 
-## Prefácio
+**Cinelist** é um projeto desenvolvido no hackthon do **bootcamp da  [Laboratória](https://www.laboratoria.la/br)**. 
 
-Com o surgimento de plataformas entreterimento por streaming como Netflix,
-Amazon Prime Video e Disney +, assistir filmes de onde estiver, comendo o que quiser
-(sem ter que pagar o preço exorbitante da pipoca), parando o filme se for preciso, tendo acesso a
-uma quantidade gigante de files, etc. Mudou a experiêcia de usuário e modificou o mercado de filmes
-a um nível global.
+Seu intuito é apresentar através de uma página web um produto sobre entreterimento utilizando APIs. Esse produto foi criado pelo squad durante os dias de Design Sprint e o desenvolvimento do dele foi feito durante os dois dias de Hackathon.
 
-![Pelis](https://i.giphy.com/media/3o6Ztl7RvfwCp9mqhW/source.gif)
+O maior foco desse projeto foi exercitar habilidades de trabalho em equipe. Quanto mais pessoas em uma equipe de trabalho, mais complexidade para: chegar em um consenso, separar as tarefas, seguir um fluxo de trabalho. Sendo assim ele foi realizado em um squad, com sete pessoas.  
 
-## Resumo do projeto
+### Linguagens e Ferramentas 
+Linguagens e ferramentas usadas para elaboração do projeto : 
+* [<img  src="https://img.shields.io/static/v1?label=CSS&message=3&color=0368FF"/>
+ ](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* [<img  src="https://img.shields.io/static/v1?label=Html&message=5&color=FF7C03"/>
+](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+* [<img  src="https://img.shields.io/static/v1?label=JavaScript&message=JS&color=FFF603"/>
+ ](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript)
+ * [<img  src="https://img.shields.io/static/v1?label=Trello&message=Agile Kanban&color=0368FF"/>
+ ](https://trello.com/)
+  * [<img  src="https://img.shields.io/static/v1?label=Firebase&message=Google&color=FF1616"/>
+ ](https://firebase.google.com/?hl=pt-br)
 
-Esse projeto terá um forma de Hackathon, no qual vocês terão que criar
-um produto sobre entreterimento utilizando APIs. Esse produto será criado
-pelo squad durante os dias de Design Sprint e o desenvolvimento do dele
-deve ser feito duranto os dois dias de Hackathon.
 
-## Considerações gerais
+## Aplicativo
+<p align="center">
+<img src="https://github.com/JulianaAmoriN/Cinelist/blob/main/src/images/gifTelaCinelist.gif?raw=true" >
+</p>
 
-- Esse projeto deve ser feito em squad
-- Utilizar uma API
-- Tempo para terminar o produto: 2 dias
+### Link Deploy
+💻👉🏽 [Cinelist ](https://midterm-hackthon.web.app/)
 
-## Objetivos de aprendizagem
+## Contribua
 
-- Enfrentar um desafio de curta duração que coloque em prático tudo
-  o foi aprendido até agora
-- Continuar desenvolvendo as suas habilidades de trabalho em equipe. Quanto
-  mais pessoas em uma equipe de trabalho, mais complexidade para: chegar
-  em um consenso, separar as tarefas, seguir um fluxo de trabalho, etc
-- [Requisições assíncronas - Fetch API](https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API)
+As contribuições são o que tornam a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Quaisquer contribuições que você fizer são ** muito apreciadas **.
 
-## Exemplo de projetos
+1. Faça um fork do projeto
+2. Crie seu Feature Branch (`git checkout -b feature / AmazingFeature`)
+3. Faça commit de suas alterações (`git commit -m 'Add some AmazingFeature'`)
+4. Envie para a Branch (`git push origin feature / AmazingFeature`)
+5. Abra uma solicitação pull
 
-- Um grupo de fãs de Star Wars que querem ver os dados de todos os filmes da série
-- Um vídeo Pinterest youtube, onde os usuários 'pinean' vídeos
-- Um mapa com os eventos que estão acontecendo perto de você
+## Contato
 
-## APIs
+Juliana Silveira - [Linkedin](https://www.linkedin.com/in/juliana-silveira-nascimento/)- juamorim.sn@gmail.com
 
-- [Open Movies Database](http://www.omdbapi.com/)
-- [Spotify](https://developer.spotify.com/documentation/web-api/)
-- [Here Maps](https://developer.here.com/)
-- [Star Wars](https://swapi.dev/)
-- [You Tube](https://developers.google.com/youtube/v3)
-- [ESPN](http://www.espn.com/apis/devcenter/docs/)
-- [Mercado Livre](https://developers.mercadolivre.com.br/pt_br/api-docs-pt-br)
+## Agradecimento
 
-Essas APIs são apenas exemplos, você pode utilizar qualquer outra que fizer sentido
-para o projeto.
-[Aqui (lista 1)](https://apilist.fun/) e [aqui (lista 2)](https://github.com/public-apis/public-apis) você irá encontrar várias APIs públicas.
+ 
 
-## Entrega
-
-- Repositório no Github
-- URL pública com o deploy do projeto
-
-## Dicas
-
-- Organizem o tempo e prestem atenção no timebox
-- Priorizem as tarefas por feature e se organizem, pensem no MVP
-- Testem os deploys com antecedência
-- Implementem coisas pequenas
+ - [Edilene Fernandes (coautora)](https://github.com/edilenefern)
+ - [Gabriela Silva (coautora)](https://github.com/gabrielasilva1991)
+ - [LauraDeperon (coautora)](https://github.com/LauraDeperon)
+ - [NayaraFugii (coautora)](https://github.com/NayaraFugii)
+ - [Roberta Sapia (coautora)](https://github.com/RoSapia)
+ - [Thais Wemberlaine (coautora)](https://github.com/ThWember)
