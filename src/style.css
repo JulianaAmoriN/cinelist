@@ -12,7 +12,6 @@ body {
 }
 
 .lista {
-  text-align: center;
   margin: 1vh;
   border: 2px rgba(0, 0, 0, 0.8) solid;
   border-radius: 5px;
