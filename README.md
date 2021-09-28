@@ -31,7 +31,7 @@
       </ul>
     </li>
     <li><a href="#instalacao">Instalação</a></li>
-    <li><a href="#contribua">Contribuidua</a></li>
+    <li><a href="#contribua">Contribua</a></li>
     <li><a href="#contato">Contato</a></li>
     <li><a href="#agradecimento">Agradecimento</a></li>
   </ol>
