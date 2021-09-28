@@ -259,3 +259,10 @@ img.logo-header {
 .none {
   display: none;
 }
+
+
+@media (max-width: 1050px) {
+  .lista {
+  text-align: center;
+  }
+}
